@@ -2,5 +2,11 @@
 name = "OxLog"
 version = "0.0.1"
 edition = "2024"
+authors = ["Luan G.", "lugotardo <luan.gotardo.dev@gmail.com>"]
+description = "A logging library for Rust applications"
+license = "MIT"
+repository = "https://github.com/lugotardo/OxLog"
+homepage = "https://github.com/lugotardo/OxLog"
+documentation = "https://docs.rs/OxLog"
 
 [dependencies]
